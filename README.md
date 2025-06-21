@@ -6,7 +6,7 @@
 
 **Eddie42** is a Slack bot** designed to interact with 42 Intra API**, providing **real-time** data about students, piscine progress, exams, and campus activity. Built with Python and Slack Bolt, it offers: Student analytics (logtime, project progress, exam results). Piscine monitoring (attrition rates, performance trends). Location tracking (cluster workstation status). Warning system (identifies at-risk students).
 
-Eddie42 was developed by **42 Porto's educational software assistants** as part of their campus monitoring initiatives. Though still an unfinished project, it delivers significant value by automating student progress tracking and risk detection. The tool actively assists lifeguards in identifying at-risk pisciners through real-time data analysis from 42's API.
+Eddie42 was developed by **42 Porto's educational software assistants** (lifeguards) as part of their campus monitoring initiatives. Though still an unfinished project, it delivers significant value by automating student progress tracking and risk detection. The tool actively assists lifeguards in identifying at-risk pisciners through real-time data analysis from 42's API. This tool reflects 42 Porto's innovative approach to peer-to-peer education. The codebase remains open for community contributions to expand its capabilities.
 
 
 -------------------
